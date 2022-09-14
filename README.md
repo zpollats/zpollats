@@ -1,8 +1,8 @@
 ## Hi there! 👋🏼
 
-**My name is Zach Pollatsek** and I'm a data scientist with a background in mechanical engineering and entrepreneurship; I also recently graduated from the Flatiron School for Data Science. I taught for the past 10 years, the last 6 in the New York City public schools teaching middle school science. I loved designing projects for my students that let them take ownership of their learning through hands-on experiences. I also gained a lot of experience and skill with breaking down technical concepts for non-technical audiences. 
+**My name is Zach Pollatsek** and I'm a data scientist with a background in mechanical engineering and entrepreneurship; I also recently graduated from the Flatiron School for Data Science. I worked as a product design engineer for a few years before realizing that I want to pursue a career in technology. I am now seeking a job that challenges me in the world of artificial intelligence and machine learning. 
 
-I became a data scientist because I’m passionate about creative problem solving for public good. I want to apply my love of science and data to challenges where I can have an impact and help others.
+I became a data scientist because I love to discover patterns in data. I also entered this space because I realized how much untapped data there is in the world around us just waiting to be analyzed!
 
 ### What I'm up to:
 
