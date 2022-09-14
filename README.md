@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there! 👋🏼
 
-<!--
-**zpollats/zpollats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Zach Pollatsek** and I'm a data scientist with a background in mechanical engineering and entrepreneurship; I also recently graduated from the Flatiron School for Data Science. I taught for the past 10 years, the last 6 in the New York City public schools teaching middle school science. I loved designing projects for my students that let them take ownership of their learning through hands-on experiences. I also gained a lot of experience and skill with breaking down technical concepts for non-technical audiences. 
 
-Here are some ideas to get you started:
+I became a data scientist because I’m passionate about creative problem solving for public good. I want to apply my love of science and data to challenges where I can have an impact and help others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to:
+
+- 🔭 I’m currently working on [Continuing My Capstone Project](https://github.com/zpollats/CapstoneContinued.git)
+- 🌱 I’m currently growing my Python and Cloud skills
+- 👯 Open to collaborate on data and machine learning projects that seek to answer complex questions to improve sales for businesses
+- 💬 Ask me about neural networks for image classification with Keras/Tensorflow
+- 🗽 Salt Lake City, UT based
+- 🧘 Hobbies: I love to get outside and go climbing, hiking, and skiing! I've recently become a certified yoga instructor as well. I am also an avid technology fan; I keep up to date with all of the latest in tech when it comes to cybersecurity, E-commerce, and fintech. 
+
+### Connect with me:
+
+<a href="https://github.com/zpollats" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/zachary-pollatsek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@zacharypollatsek" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:zacharypollatsek@gmail" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
