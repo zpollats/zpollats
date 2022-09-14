@@ -10,7 +10,7 @@ I became a data scientist because I love to discover patterns in data. I also en
 - 🌱 I’m currently growing my Python and Cloud skills
 - 👯 Open to collaborate on data and machine learning projects that seek to answer complex questions to improve sales for businesses
 - 💬 Ask me about neural networks for image classification with Keras/Tensorflow
-- 🗽 Salt Lake City, UT based
+- 🏜 Salt Lake City, UT based
 - 🧘 Hobbies: I love to get outside and go climbing, hiking, and skiing! I've recently become a certified yoga instructor as well. I am also an avid technology fan; I keep up to date with all of the latest in tech when it comes to cybersecurity, E-commerce, and fintech. 
 
 ### Connect with me:
