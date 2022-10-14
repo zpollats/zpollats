@@ -2,7 +2,7 @@
 
 **My name is Zach Pollatsek** and I'm a data scientist with a background in mechanical engineering and entrepreneurship; I also recently graduated from the Flatiron School for Data Science. I worked as a product design engineer for a few years before realizing that I want to pursue a career in technology. I am now seeking a job that challenges me in the world of artificial intelligence and machine learning. 
 
-I became a data scientist because I love to discover patterns in data. I also entered this space because I realized how much untapped data there is in the world around us just waiting to be analyzed!
+I became a data scientist because I love to discover patterns in data. I feel that data science is the best field for me to use my problem-solving skills, business background, and newfound programming skillset. I also entered this space because I realized how much untapped data there is in the world around us just waiting to be analyzed!
 
 ### What I'm up to:
 
