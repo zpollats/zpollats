@@ -20,10 +20,10 @@ During that time, I also co-founded **Lumirate**, a healthcare price-transparenc
 
 ## Currently building
 
-**[EPL data pipeline](https://github.com/zpollats/epl_mastermind_v2):** an end-to-end pipeline for English Premier League data, containerized with Docker.
+**[EPL data pipeline](https://github.com/zpollats/epl_mastermind_v2):** ingests Fantasy Premier League and football-data.org APIs with dlt, models them in DuckDB with SQLMesh (staging → intermediate → marts), and refreshes weekly.
 
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/zachary-pollatsek) · zacharypollatsek@gmail.com
 
-Outside of work I teach yoga and spend as much time playing soccer and practicing yoga.
+Outside of work I teach yoga and play soccer.
