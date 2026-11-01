@@ -13,10 +13,10 @@ During that time, I also co-founded **Lumirate**, a healthcare price-transparenc
 
 ## Stack
 
-**Languages:** Python, SQL, Bash
-**Data:** PostgreSQL, DuckDB, DuckLake, ClickHouse
-**Orchestration & monitoring:** Apache Airflow, Datadog
-**Cloud:** AWS, Google Cloud
+- **Languages:** Python, SQL, Bash
+- **Data:** PostgreSQL, DuckDB, DuckLake, ClickHouse
+- **Orchestration & monitoring:** Apache Airflow, Datadog
+- **Cloud:** AWS, Google Cloud
 
 ## Currently building
 
